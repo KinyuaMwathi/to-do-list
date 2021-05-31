@@ -1,0 +1,21 @@
+.container01 {
+  background-color: #80F329;
+  height: 300px;
+}
+
+#heading01 {
+  color: white;
+  text-align: center;
+  padding-top: 130px;
+}
+
+.container02 {
+  background-color: #B2BFA8;
+  height: 250px;
+}
+
+#footerText {
+  text-align: center;
+  padding-top: 118px;
+  color: white;
+}
